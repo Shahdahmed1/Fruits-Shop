@@ -5,7 +5,7 @@ Demonstrates layout, styling, and responsive design skills.
 
 ## How to View
 You can view the live version on GitHub Pages:  
-[https://Shahdahmed1.github.io/Fruits-shop/](https://Shahdahmed1.github.io/Fruits-shop/)
+[http://shahdahmed1.github.io/Fruits-Shop/](http://shahdahmed1.github.io/Fruits-Shop/)
 
 ## Features
 - Responsive navigation bar and hero section.
